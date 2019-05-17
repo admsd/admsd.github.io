@@ -1,0 +1,122 @@
+body 
+{
+	background: url("BGF.jpg") fixed center no-repeat;
+
+}
+
+#toplink 
+{
+	position: absolute;
+	top: 50px;
+	right: 100px;
+
+}
+
+.linkstyle a
+{
+	float: left;
+	font-family: Calibri;
+	font-size: 22pt;
+	margin-left: 20px;
+	color:#FFFFFF;
+	text-decoration: none;
+	
+}
+
+
+
+
+.linkstyle a:hover
+{
+	color: #99CCFF;
+	text-decoration: underline;
+}
+
+#logo 
+{
+	
+	font-family:sans-serif;
+	color: #FFFFFF;	
+	font-size: 60px;
+	position: absolute;
+	top: 100px;
+	left: 100px;
+	text-shadow:3px 3px 3px #000000;
+	
+}
+#rightlogo
+{
+	font-family:sans-serif;
+	color: #FFFFFF;	
+	font-size: 30px;
+	position: absolute;
+	top: 400px;
+	right: 100px;
+	text-shadow:3px 3px 3px #000000;
+}
+#middle 
+{
+	position:relative;
+	float:top;
+	margin-top:800px;
+	background: url("BGF2.jpg") repeat;	
+	height: 1140px;
+}
+#leftimg
+{
+	position: relative;
+	top: 30px;
+	left: 50px;
+
+	width: 530px;
+	height: 290px;
+	font-family: calibri;
+	float: left;
+}
+#leftimg a
+{ 
+   
+   margin-left:30px;
+   font-size:30pt;
+   color:#FFFFFF;
+   line-height:30px;	
+   text-shadow:3px 3px 3px #000000;
+
+}
+#leftimg p
+{
+ font-size:16pt;
+ color:#FFFFFF;
+ line-height:40px;	
+ text-shadow:3px 3px 3px #000000;
+}
+#rightimg 
+{
+	position: relative;
+	top: 30px;
+	right: -230px;
+	width: 530px;
+	height: 290px;
+	font-family: calibri;
+	float: left;
+}
+#rightimg a
+{ 
+   
+   margin-right:30px;
+   font-size:30pt;
+   color:#FFFFFF;
+   line-height:30px;	
+   text-shadow:3px 3px 3px #000000;
+
+}
+
+
+
+#rightimg p
+{
+ font-size:16pt;
+ color:#FFFFFF;
+ line-height:40px;	
+ text-shadow:3px 3px 3px #000000;
+}

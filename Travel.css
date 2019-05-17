@@ -1,0 +1,103 @@
+body 
+{
+	background: url("BGT.jpg") fixed center;
+
+}
+
+#toplink 
+{
+	position: absolute;
+	top: 50px;
+	right: 100px;
+
+}
+
+.linkstyle a
+{
+	float: left;
+	font-family: Calibri;
+	font-size: 22pt;
+	margin-left: 20px;
+	color:#FFFFFF;
+	text-decoration: none;
+	
+}
+
+
+
+
+.linkstyle a:hover
+{
+	color: #99CCFF;
+	text-decoration: underline;
+}
+
+#logo 
+{
+	
+	font-family:Impact;
+	color: #99CCFF;	
+	font-size: 100px;
+	position: absolute;
+	top: 200px;
+	left: 50px;
+	text-shadow:3px 3px 3px #336699;
+	
+}
+
+#rightlogo
+{
+	font-family:sans-serif;
+	color: #FFFFFF;	
+	font-size: 30px;
+	position: absolute;
+	top: 400px;
+	right: 100px;
+	text-shadow:3px 3px 3px #000000;
+}
+#middle 
+{
+	position:relative;
+	float:top;
+	margin-top:800px;
+	background: #FFFFFF;
+	height: 1140px;
+}
+#leftimg
+{
+	position: relative;
+	top: 30px;
+	left: 50px;
+
+	width: 530px;
+	height: 290px;
+	font-family: calibri;
+	float: left;
+}
+
+#leftimg p
+{
+ font-size:14pt;
+ color:#000000;
+ line-height:30px;	
+
+}
+#rightimg 
+{
+	position: relative;
+	top: 30px;
+	right: -230px;
+	width: 530px;
+	height: 290px;
+	font-family: calibri;
+	float: left;
+}
+
+
+#rightimg p
+{
+ font-size:14pt;
+ color:#000000;
+ line-height:30px;	
+
+}

@@ -1,0 +1,145 @@
+body
+{
+	
+    margin: 0px;
+	padding: 0px;
+	background: url(BGS.jpg) repeat;
+	font-family: sans-serif;
+	font-size: 11pt;
+	color: #727272;
+	
+}
+
+#main
+{
+	overflow: hidden;
+	width: 940px;
+	padding: 40px;
+	background: #FFFFFF;
+}
+.container
+{
+	width: 1020px;
+	margin: 0px auto;
+}
+#header
+{
+	overflow: hidden;
+}
+#logo h1, #logo p
+{
+	
+	margin: 0px;
+	line-height: normal;
+	text-align: center;
+	text-transform: uppercase;
+}
+#logo h1 a
+{
+	font-family:Impact;
+	display: block;
+	padding: 0px 0px 0px 0px;
+	font-size: 2.75em;
+	font-weight: 200;
+	color: #000000;
+	letter-spacing:0.5px;
+	text-shadow:2px 2px 2px #BBBBBB;
+}
+
+#logo p 
+{
+	padding: 0px 0px 30px 0px;
+	font-size: 1.50em;
+}
+#menu
+{
+	overflow: hidden;
+	border-bottom: 1px solid #DDDDDD;
+}
+
+#menu ul
+{
+	margin: 20px 0px;
+	padding: 0px;
+	list-style: none;
+	line-height: normal;
+	text-align: center;
+}
+
+#menu li
+{
+	display: inline-block;
+	padding: 0px 25px;
+	border-left: 1px solid #BBBBBB;
+}
+
+#menu a
+{
+	display: block;
+	height: 50px;
+	line-height: 50px;
+	text-decoration: none;
+	font-family: sans-serif;
+	font-size: 1.25em ;
+	color: #555555;
+}
+
+#menu a:hover
+{
+	text-decoration: underline;
+}
+
+#menu .first
+{
+	border-left: none;
+}
+#page
+{
+	overflow: hidden;
+	padding: 40px 0px;
+}
+#content
+{
+	float: left;
+	width: 560px;
+}
+
+#content h2
+{
+	padding: 0em 0em 1em 0em;
+	font-size: 3em;
+
+}
+
+#content img {
+	
+	margin-top:-40px;
+	padding-bottom: 30px;
+}
+#text
+{
+	
+	float: left;
+	width: 300px;
+	margin-top: 105px;
+	margin-left:40px;
+}
+#text p
+{
+	font-style: normal;
+  	font-family: sans-serif;
+	font-size: 12pt;
+	line-height: 20px;
+	color:#000000;
+	
+	
+}
+#bottom
+{
+	float:bottom;
+	background: url(BGS.jpg);
+    height :100px; 
+
+}
+
+

@@ -1,0 +1,216 @@
+body 
+{
+	margin: 0;
+	padding: 0;
+	background: #000000;
+	font-family: sans-serif;
+	font-size: 18px;
+	color: #000000;
+}
+
+
+h1 
+{
+	font-size: 2em;
+}
+
+#block
+{
+}
+.container
+{
+	width: 1000px;
+	margin: 0px auto;
+	
+}
+
+
+#topblock
+{
+	overflow: hidden;
+	height: 700px;
+	background:#000000 ;
+	
+}
+#top {
+	overflow: hidden;
+	width: 1000px;
+	height: 150px;
+	margin: 0 auto;
+	padding: 0px 0px;
+}
+
+
+	
+#bandname 
+{
+	float: left;
+	width: 300px;
+	margin: 0;
+	padding: 0;
+	color: #FFFFFF;
+}
+#bandname h1 
+{
+	line-height: 120px;
+	letter-spacing: -2px;
+	font-size: 3em;
+}
+
+#menu 
+{
+	float: right;
+	width: 700px;
+	height: 90px;
+	margin: 0 auto;
+	padding: 0;
+}
+
+#menu ul 
+{
+	float: right;
+	margin: 0;
+	padding: 50px 0px 0px 0px;
+	list-style: none;
+	line-height: normal;
+}
+
+#menu li 
+{
+	float: left;
+	padding: 0px 0px 0px 0px;
+}
+
+#menu a 
+{
+	display: block;
+	margin-right: 1px;
+	padding: 40px 20px 10px 20px;
+	text-decoration: none;
+	text-align: center;
+	text-transform: uppercase;
+	font-family: Courier;
+	font-size: 20px;
+	font-weight: 300;
+	color: #FF0000;
+	border: none;
+
+}
+#menu a:hover
+{
+ text-decoration:underline;	
+	
+}
+
+#banner {
+	margin: 0px auto;
+	width: 1000px;
+	height: 600px;
+}
+#banner .content 
+{
+}
+#content 
+{
+	float: left;
+	width: 660px;
+	padding: 0px 0px 0px 0px;
+}
+#Intro
+{
+	overflow: hidden;
+	width: 1000px;
+	height:500px;
+	margin: 0px auto;
+	padding: 30px 0px;
+	background:#222222;
+   
+	
+	
+}
+#Intro p
+{
+	font-family:sans-serif;
+	font-size:14pt;
+	color:#FFFFFF;
+
+	margin-left:30px;
+	margin-right:30px;
+	
+}
+#Intro h2 
+{
+	padding: 0px 0px 0px 30px;
+	font-size: 30px;
+	color: #FF0000;
+}
+
+#Intro #column1
+{
+	float: left;
+	width: 300px;
+	margin-left:30px;
+	margin-right: 30px;
+	border-right:2px solid  #666666; 
+	line-height:36px;
+}
+
+#Intro  #column2 
+{
+	float: left;
+	width: 300px;
+	
+	margin-right: 30px;
+	border-right:2px solid  #666666 ;
+	
+	
+
+}
+
+#Intro #column3 
+{
+	float: left;
+	width: 300px;
+}
+#Intro #column3 a
+{
+  font-size:20px;
+  color:#FFFFFF;
+  text-decoration:underline;
+	
+	
+}
+#Intro #column3 a:hover
+{
+  color:#0000FF;
+	
+}
+
+#bottom
+{
+	float:top;
+	width:1300px;
+	margin-top:100px;
+	
+	
+}
+#bottom p
+{
+ text-align:center;
+ font-family:sans-serif;
+ color:#FFFFFF
+	
+	
+}	
+#bottom a
+{
+ color:#FFFFFF;
+ text-decoration:underline;
+}
+#bottom a:hover
+{
+ color:#0000FF;
+ text-decoration:underline;
+}
+	
+	
